@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/pod-portfolio/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/pod-portfolio/static/js/main.863b06a9.chunk.js",
-    "main.js.map": "/pod-portfolio/static/js/main.863b06a9.chunk.js.map",
+    "main.js": "/pod-portfolio/static/js/main.30d8239d.chunk.js",
+    "main.js.map": "/pod-portfolio/static/js/main.30d8239d.chunk.js.map",
     "runtime-main.js": "/pod-portfolio/static/js/runtime-main.ce856878.js",
     "runtime-main.js.map": "/pod-portfolio/static/js/runtime-main.ce856878.js.map",
-    "static/js/2.0aa63b2d.chunk.js": "/pod-portfolio/static/js/2.0aa63b2d.chunk.js",
-    "static/js/2.0aa63b2d.chunk.js.map": "/pod-portfolio/static/js/2.0aa63b2d.chunk.js.map",
+    "static/js/2.a7721871.chunk.js": "/pod-portfolio/static/js/2.a7721871.chunk.js",
+    "static/js/2.a7721871.chunk.js.map": "/pod-portfolio/static/js/2.a7721871.chunk.js.map",
     "static/js/3.303f73af.chunk.js": "/pod-portfolio/static/js/3.303f73af.chunk.js",
     "static/js/3.303f73af.chunk.js.map": "/pod-portfolio/static/js/3.303f73af.chunk.js.map",
     "index.html": "/pod-portfolio/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/pod-portfolio/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.0aa63b2d.chunk.js.LICENSE.txt": "/pod-portfolio/static/js/2.0aa63b2d.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/pod-portfolio/static/media/logo.6ce24c58.svg"
+    "static/js/2.a7721871.chunk.js.LICENSE.txt": "/pod-portfolio/static/js/2.a7721871.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ce856878.js",
-    "static/js/2.0aa63b2d.chunk.js",
+    "static/js/2.a7721871.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.863b06a9.chunk.js"
+    "static/js/main.30d8239d.chunk.js"
   ]
 }
