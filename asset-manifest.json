@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pod-portfolio/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/pod-portfolio/static/js/main.a9935cc3.chunk.js",
-    "main.js.map": "/pod-portfolio/static/js/main.a9935cc3.chunk.js.map",
+    "main.js": "/pod-portfolio/static/js/main.863b06a9.chunk.js",
+    "main.js.map": "/pod-portfolio/static/js/main.863b06a9.chunk.js.map",
     "runtime-main.js": "/pod-portfolio/static/js/runtime-main.ce856878.js",
     "runtime-main.js.map": "/pod-portfolio/static/js/runtime-main.ce856878.js.map",
     "static/js/2.0aa63b2d.chunk.js": "/pod-portfolio/static/js/2.0aa63b2d.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.ce856878.js",
     "static/js/2.0aa63b2d.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.a9935cc3.chunk.js"
+    "static/js/main.863b06a9.chunk.js"
   ]
 }
