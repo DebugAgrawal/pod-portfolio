@@ -17,7 +17,7 @@ class Fellow extends React.Component {
               Interested in Web technologies like HTML5, CSS3, JavaScript, ReactJS.
             
             </p>
-            <p>Love Codepen.io and respect Chris Coyier. ;)</p>
+            <p>Love Hackathons and is Helpful ;)</p>
             <span className="right bottom"><FaGithubSquare size={25} color="#333"/>  <FaLinkedin size={25} color="#333"/> <FaTwitterSquare size={25} color="#333"/>  <FaFacebookSquare size={25} color="#333"/></span>
           </div>
         </div>
