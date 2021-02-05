@@ -1,4 +1,8 @@
 import React from "react";
+import { FaGithubSquare } from "react-icons/fa";
+import { FaFacebookSquare } from "react-icons/fa";
+import { FaTwitterSquare } from "react-icons/fa";
+import { FaLinkedin } from "react-icons/fa";
 import './assets/css/fellow.css'
 
 class Fellow extends React.Component {
@@ -14,8 +18,7 @@ class Fellow extends React.Component {
               MySQL, etc.
             </p>
             <p>Love Codepen.io and respect Chris Coyier. ;)</p>
-            <span class="left bottom">tel: 731 366 ***</span>
-            <span class="right bottom">adress: Czech Republic</span>
+            <span class="right bottom"><FaGithubSquare size={25} color="#333"/>  <FaLinkedin size={25} color="#333"/> <FaTwitterSquare size={25} color="#333"/>  <FaFacebookSquare size={25} color="#333"/></span>
           </div>
         </div>
     );
