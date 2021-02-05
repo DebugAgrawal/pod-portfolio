@@ -6,19 +6,19 @@ import { FaLinkedin } from "react-icons/fa";
 import './assets/css/fellow.css'
 
 class Fellow extends React.Component {
-  render() {
+  render(props) {
     return (
       <div>
           <div id="card">
-            <img src="https://th.bing.com/th/id/OIP.6nCVjA0S936UiBlDUsov4QHaE9?pid=Api&rs=1" />
-            <h2>Ondřej Page Bárta</h2>
-            <p>Student of IT in Czech republic.</p>
+            <img src="https://th.bing.com/th/id/OIP.Cvogu9sG2nhb9_yBPIMedAHaHa?pid=Api&rs=1"/>
+            <h2>{this.props.dataprop.name} {this.props.dataprop.ID}</h2>
+            <p>{this.props.dataprop.kind}</p>
             <p>
-              Interested in Web technologies like HTML5, CSS3, JavaScript, PHP,
-              MySQL, etc.
+              Interested in Web technologies like HTML5, CSS3, JavaScript, ReactJS.
+            
             </p>
             <p>Love Codepen.io and respect Chris Coyier. ;)</p>
-            <span class="right bottom"><FaGithubSquare size={25} color="#333"/>  <FaLinkedin size={25} color="#333"/> <FaTwitterSquare size={25} color="#333"/>  <FaFacebookSquare size={25} color="#333"/></span>
+            <span className="right bottom"><FaGithubSquare size={25} color="#333"/>  <FaLinkedin size={25} color="#333"/> <FaTwitterSquare size={25} color="#333"/>  <FaFacebookSquare size={25} color="#333"/></span>
           </div>
         </div>
     );

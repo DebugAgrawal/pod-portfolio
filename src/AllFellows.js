@@ -9,36 +9,21 @@ class AllFellows extends React.Component {
         fellow: data,
     }
 
-
-
     render() {
         console.log(this.state);
-        return (            
+        return (
             <div>
                 <h1 className="header">Meet the Pod Members ⛄</h1>
                 <div className="allfellows">
-                    <Fellow />
-                    <Fellow />
-                    <Fellow />
-                    <Fellow />
-                    <Fellow />
-                    <Fellow />
-                    <Fellow />
-                    <Fellow />
-                    <Fellow />
-                    <Fellow />
-                    <Fellow />
-                    <Fellow />
-                    <Fellow />
-                    <Fellow />
-                    <Fellow />
-                    <Fellow />
-                    <Fellow />
-                    <Fellow />
+                    {
+                        this.state.fellow.map(data => {
+                            return (<Fellow dataprop={data} key={data.id} />);
+                        })
+                    }
                 </div>
             </div>
         );
+
     }
 }
-
 export default AllFellows
