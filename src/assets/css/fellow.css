@@ -27,20 +27,24 @@ body {
     margin-top:15px;
     margin-bottom:25px;
     background: #E9E2D0;
-    box-shadow: -20px 0 35px -25px black, 20px 0 35px -25px black;
+    box-shadow: -20px 0 35px -25px black, 10px 0 35px -25px black;
     z-index: 5;
   }
   
   #card img {
-    height:80%;
+    height:100%;
+    width:30%;
     float: left;
     border-radius: 5px;
     margin-right: 20px;
-    -webkit-filter: sepia(1);
-    -moz-filter: sepia(1);
-    filter: sepia(1);
+    filter: blur(2px);
+    transition: .3s ease-in-out;
   }
-  
+
+  #card img:hover{
+    filter: blur(0);
+  } 
+
   #card h2 {
     font-family: courier;
     color: #333;

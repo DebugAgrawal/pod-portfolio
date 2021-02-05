@@ -6,7 +6,7 @@ class AllFellows extends React.Component{
 render(){
     return(
     <div>
-    <h1 className="header">Meet the Pod Members</h1>
+    <h1 className="header">Meet the Pod Members ⛄</h1>
     <div className="allfellows">
     <Fellow/>
     <Fellow/>       
