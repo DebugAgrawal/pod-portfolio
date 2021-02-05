@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+.allfellows{
+    display: grid;
+    grid-template-rows: auto auto;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto auto;
+    align-items: center;
+    justify-content: start;
+    width: 1000vh;
+    padding: 40px 0px 0px 70px;
+    grid-column-gap:80px ;
+}
+.header{
+    width: 100%;
+    margin-top: 50px;
+    font-family: 'Architects Daughter', cursive;
+    font-size:40px ;
+    position: relative;
+    text-align: center;
+}
