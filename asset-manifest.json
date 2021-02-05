@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/pod-portfolio/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/pod-portfolio/static/js/main.30d8239d.chunk.js",
-    "main.js.map": "/pod-portfolio/static/js/main.30d8239d.chunk.js.map",
-    "runtime-main.js": "/pod-portfolio/static/js/runtime-main.ce856878.js",
-    "runtime-main.js.map": "/pod-portfolio/static/js/runtime-main.ce856878.js.map",
-    "static/js/2.a7721871.chunk.js": "/pod-portfolio/static/js/2.a7721871.chunk.js",
-    "static/js/2.a7721871.chunk.js.map": "/pod-portfolio/static/js/2.a7721871.chunk.js.map",
-    "static/js/3.303f73af.chunk.js": "/pod-portfolio/static/js/3.303f73af.chunk.js",
-    "static/js/3.303f73af.chunk.js.map": "/pod-portfolio/static/js/3.303f73af.chunk.js.map",
+    "main.css": "/pod-portfolio/static/css/main.a3f26512.chunk.css",
+    "main.js": "/pod-portfolio/static/js/main.25f9bb7e.chunk.js",
+    "main.js.map": "/pod-portfolio/static/js/main.25f9bb7e.chunk.js.map",
+    "runtime-main.js": "/pod-portfolio/static/js/runtime-main.d58fd6eb.js",
+    "runtime-main.js.map": "/pod-portfolio/static/js/runtime-main.d58fd6eb.js.map",
+    "static/js/2.51eb9a51.chunk.js": "/pod-portfolio/static/js/2.51eb9a51.chunk.js",
+    "static/js/2.51eb9a51.chunk.js.map": "/pod-portfolio/static/js/2.51eb9a51.chunk.js.map",
+    "static/js/3.ae79d9d0.chunk.js": "/pod-portfolio/static/js/3.ae79d9d0.chunk.js",
+    "static/js/3.ae79d9d0.chunk.js.map": "/pod-portfolio/static/js/3.ae79d9d0.chunk.js.map",
     "index.html": "/pod-portfolio/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/pod-portfolio/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.a7721871.chunk.js.LICENSE.txt": "/pod-portfolio/static/js/2.a7721871.chunk.js.LICENSE.txt"
+    "static/css/main.a3f26512.chunk.css.map": "/pod-portfolio/static/css/main.a3f26512.chunk.css.map",
+    "static/js/2.51eb9a51.chunk.js.LICENSE.txt": "/pod-portfolio/static/js/2.51eb9a51.chunk.js.LICENSE.txt",
+    "static/media/fellowship.f8abc031.svg": "/pod-portfolio/static/media/fellowship.f8abc031.svg",
+    "static/media/frontpage.css": "/pod-portfolio/static/media/olaf.b213d324.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ce856878.js",
-    "static/js/2.a7721871.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.30d8239d.chunk.js"
+    "static/js/runtime-main.d58fd6eb.js",
+    "static/js/2.51eb9a51.chunk.js",
+    "static/css/main.a3f26512.chunk.css",
+    "static/js/main.25f9bb7e.chunk.js"
   ]
 }
