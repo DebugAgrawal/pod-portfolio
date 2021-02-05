@@ -14,10 +14,9 @@ class Fellow extends React.Component {
             <h2>{this.props.dataprop.name} {this.props.dataprop.ID}</h2>
             <p>{this.props.dataprop.kind}</p>
             <p>
-              Interested in Web technologies like HTML5, CSS3, JavaScript, ReactJS.
-            
+            {this.props.dataprop.tech}
             </p>
-            <p>Love Hackathons and is Helpful ;)</p>
+            <p>Love Hackathons and like helping Helping Others ;)</p>
             <span className="right bottom"><FaGithubSquare size={25} color="#333"/>  <FaLinkedin size={25} color="#333"/> <FaTwitterSquare size={25} color="#333"/>  <FaFacebookSquare size={25} color="#333"/></span>
           </div>
         </div>

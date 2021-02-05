@@ -2,7 +2,7 @@
 .allfellows{
     display: grid;
     grid-template-rows: auto auto;
-    grid-template-columns: auto auto auto auto auto auto auto auto  ;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto ;
     align-items: center;
     justify-content: start;
     width: 1000vh;

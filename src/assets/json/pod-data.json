@@ -5,7 +5,7 @@
         "proflie":"https://drive.google.com/open?id=1kTNdyHVymwOvP0hX8zOMkciKKxLsdzA9",
         "twitter-username": "",
         "linkedin-username": "",
-        "tech-stack": "",
+        "tech": "Rust, Python, Flutter",
         "kind": "Pod Leader"
         
     },
@@ -15,7 +15,7 @@
         "proflie":"https://drive.google.com/open?id=13N-tadV2Yb_LhNMB9izvdCxd-h1j9UKO",
         "twitter-username": "",
         "linkedin-username": "",
-        "tech-stack": "",
+        "tech": "JavaScript, Node.js",
         "kind": "MLH Fellow Spring '21"
     },
     {
@@ -24,7 +24,7 @@
         "proflie":"/img/olaf.png",
         "twitter-username": "",
         "linkedin-username": "",
-        "tech-stack": "",
+        "tech": "",
         "kind": "MLH Fellow Spring '21"
     },
     {
@@ -33,7 +33,7 @@
         "proflie":"/img/olaf.png",
         "twitter-username": "",
         "linkedin-username": "",
-        "tech-stack": "",
+        "tech": "",
         "kind": "MLH Fellow Spring '21"
     },
     {
@@ -42,7 +42,7 @@
         "proflie":"/img/olaf.png",
         "twitter-username": "",
         "linkedin-username": "",
-        "tech-stack": "",
+        "tech": "Node.js, MongoDB, SQLite, Java, Python",
         "kind": "MLH Fellow Spring '21"
     },
     {
@@ -51,7 +51,7 @@
         "proflie":"https://drive.google.com/open?id=1W3I9XDFfrFza2QSpqlDm03NJ7pa39WT-",
         "twitter-username": "",
         "linkedin-username": "",
-        "tech-stack": "",
+        "tech": "AppD using Java& Flutter, Firebase, MERN Stack, Testing Frameworks",
         "kind": "MLH Fellow Spring '21"
     },
     {
@@ -60,7 +60,7 @@
         "proflie":"https://drive.google.com/open?id=1W2AoiPidCKmguR1ikYMYGGtG6q8NdDDI",
         "twitter-username": "",
         "linkedin-username": "",
-        "tech-stack": "",
+        "tech": "React js, Ruby on Rails, tailwindcss",
         "kind": "MLH Fellow Spring '21"
     },
     {
@@ -69,7 +69,7 @@
         "proflie":"/img/olaf.png",
         "twitter-username": "",
         "linkedin-username": "",
-        "tech-stack": "",
+        "tech": "Node.js, MongoDB, SQLite, Java, Python",
         "kind": "MLH Fellow Spring '21"
     },
     {
@@ -78,7 +78,7 @@
         "proflie":"https://drive.google.com/open?id=1ENWOBxbxHjuk4xk3GNxfJCFc23cBWtHb",
         "twitter-username": "",
         "linkedin-username": "",
-        "tech-stack": "",
+        "tech": "JavaScript, ReactJS, Strapi",
         "kind": "MLH Fellow Spring '21"
     },
     {
@@ -86,8 +86,8 @@
         "name": "Sena Yevenyo",
         "proflie":"/img/olaf.png",
         "twitter-username": "",
-        "linkedin-username": "",
-        "tech-stack": "",
+        "linkedin-username": "Java Servlets, Google Datastore, Bootstrap, Nodejs, Express, pm2",
+        "tech": "Node.js, MongoDB, SQLite, Java, Python",
         "kind": "MLH Fellow Spring '21"
     },
     {
@@ -96,7 +96,7 @@
         "proflie":"https://drive.google.com/open?id=1nDhuwWbv-2Akh1c9AxtaDxoF-L6uinh_",
         "twitter-username": "",
         "linkedin-username": "",
-        "tech-stack": "",
+        "tech": "Computational Python, Machine Learning, Open Source",
         "kind": "MLH Fellow Spring '21"
     },
     {
@@ -105,7 +105,7 @@
         "proflie":"https://drive.google.com/open?id=1hOezDy0A1NbnPptPLon-e1o3woLXS5xm",
         "twitter-username": "",
         "linkedin-username": "",
-        "tech-stack": "",
+        "tech": "",
         "kind": "MLH Fellow Spring '21"
     },
     {
@@ -114,7 +114,7 @@
         "proflie":"/img/olaf.png",
         "twitter-username": "",
         "linkedin-username": "",
-        "tech-stack": "",
+        "tech": "",
         "kind": "MLH Fellow Spring '21"
     },
     {
@@ -123,7 +123,7 @@
         "proflie":"/img/olaf.png",
         "twitter-username": "",
         "linkedin-username": "",
-        "tech-stack": "",
+        "tech": "Python, Machine Learning, Designing, JavaScript,ReactJS",
         "kind": "MLH Fellow Spring '21"
     },
     {
@@ -132,7 +132,7 @@
         "proflie":"/img/olaf.png",
         "twitter-username": "",
         "linkedin-username": "",
-        "tech-stack": "",
+        "tech": "Python, Flask, Javascript (NodeJS), Express, Mongo",
         "kind": "MLH Fellow Spring '21"
     },
     {
@@ -141,7 +141,7 @@
         "proflie":"/img/olaf.png",
         "twitter-username": "",
         "linkedin-username": "",
-        "tech-stack": "",
+        "tech": "",
         "kind": "MLH Fellow Sring '21"
     }
 ]
