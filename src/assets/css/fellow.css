@@ -63,4 +63,6 @@ body {
   #card span {
     font-family: courier;
   }
-
+a{
+  text-decoration: none;
+}
