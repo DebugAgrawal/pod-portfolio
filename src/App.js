@@ -5,6 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="wrapper">
+    
     <div className="pages">
     <FrontPage/>
     </div>
@@ -12,6 +13,7 @@ function App() {
     <AllFellows/>
     </div>
     </div>
+    
   );
 }
 

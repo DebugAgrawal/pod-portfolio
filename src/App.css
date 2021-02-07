@@ -4,6 +4,7 @@ overflow-y: hidden;
 overflow-x: auto;
 flex-wrap: nowrap;
 scrollbar-width: 0px;
+height: 100vh;
 }
 
 

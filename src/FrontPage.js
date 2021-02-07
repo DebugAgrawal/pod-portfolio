@@ -7,7 +7,7 @@ class FrontPage extends React.Component{
         return(
             <div className='frontpage' >
                 <div className="container">
-                <h1><u>Open Soucred<br/>Olaf</u></h1>
+                <h1><u>Open Sourced<br/>Olaf</u></h1>
                 <img src={logo} alt="MLH logo"></img>
                 </div>
             </div>
