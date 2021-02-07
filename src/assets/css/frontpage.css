@@ -2,7 +2,7 @@
 
 .frontpage{
   padding: 0px 50px;
-  background-image: url("https://lumiere-a.akamaihd.net/v1/images/characterthumbnail_lol_olaf_42cd2062.gif");
+  background-image: url("/src/assets/img/background1.gif");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;

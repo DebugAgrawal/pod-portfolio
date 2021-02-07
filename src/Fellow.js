@@ -10,7 +10,7 @@ class Fellow extends React.Component {
     return (
       <div>
           <div id="card">
-            <img src="https://th.bing.com/th/id/OIP.Cvogu9sG2nhb9_yBPIMedAHaHa?pid=Api&rs=1"/>
+            <img alt ="background" src="https://th.bing.com/th/id/OIP.Cvogu9sG2nhb9_yBPIMedAHaHa?pid=Api&rs=1"/>
             <h2>{this.props.dataprop.name} {this.props.dataprop.ID}</h2>
             <p>{this.props.dataprop.kind}</p>
             <p>
