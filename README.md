@@ -28,3 +28,5 @@
 10. Push the Changes.
 11. Now create a pull request from your GitHub and wait for the review.
 12. Make the requested changes if any and when the code will be perfect PR would be merged `i.e and have contributed to Open source`
+---
+> ### _Happy Hacking 👨‍💻🖤_
