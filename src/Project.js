@@ -1,6 +1,5 @@
 import React from "react";
 import './assets/css/project.css'
-import { FaGithubSquare } from "react-icons/fa";
 
 class Project extends React.Component {
   render(props) {
