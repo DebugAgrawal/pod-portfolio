@@ -12,8 +12,6 @@ class Project extends React.Component {
           <p className="bottom">
             {this.props.dataprop.tech}
           </p>
-          
-
         </div>
       </div>
     );

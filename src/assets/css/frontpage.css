@@ -14,13 +14,15 @@
   justify-content: space-between;
   align-items: center;
   width: 100%;
-  color: #5C4932;
+  color: #ddf2f3;
+ 
   height: 100vh;
 }
 
 .container h1{
 margin-bottom: 200px;
 text-align: center;
+font-weight: 800;
 font-size: 60px;
 font-family: 'Architects Daughter', cursive;
 }
