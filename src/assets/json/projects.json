@@ -1,0 +1,43 @@
+[
+    {
+        "ID": "1",
+        "name": "Project 1",
+        "information":"Project based on Web developement",
+        "tech":"ReactJS, JS",
+        "github_username": "",
+        "image":"https://th.bing.com/th/id/R0da0186f8f100aaab0baf6a925d3285a?rik=M82DeC27lu80pw&riu=http%3a%2f%2fwww.illuminationworksllc.com%2fwp-content%2fuploads%2f2017%2f04%2fProjectManagement-1.jpg&ehk=0cgNQeLO9QjShrorhELQH3LuAoaiVmRGOeA13%2fNqz5I%3d&risl=&pid=ImgRaw"
+        
+    },
+    {
+        "ID": "2",
+        "name": "Project 2",
+        "information":"Project based on ML",
+        "tech":"Tenserflow, Python",
+        "github_username": "",
+        "image":"https://th.bing.com/th/id/R0da0186f8f100aaab0baf6a925d3285a?rik=M82DeC27lu80pw&riu=http%3a%2f%2fwww.illuminationworksllc.com%2fwp-content%2fuploads%2f2017%2f04%2fProjectManagement-1.jpg&ehk=0cgNQeLO9QjShrorhELQH3LuAoaiVmRGOeA13%2fNqz5I%3d&risl=&pid=ImgRaw"
+    },
+    {
+        "ID": "3",
+        "name": "Project 3",
+        "information":"Project based on Blockchain",
+        "tech":"Python",
+        "github_username": "",
+        "image":"https://th.bing.com/th/id/R0da0186f8f100aaab0baf6a925d3285a?rik=M82DeC27lu80pw&riu=http%3a%2f%2fwww.illuminationworksllc.com%2fwp-content%2fuploads%2f2017%2f04%2fProjectManagement-1.jpg&ehk=0cgNQeLO9QjShrorhELQH3LuAoaiVmRGOeA13%2fNqz5I%3d&risl=&pid=ImgRaw"
+    },
+    {
+        "ID": "4",
+        "name": "Project 4",
+        "information":"Project based on App developement",
+        "tech":"Flutter, Firebase",
+        "github_username": "",
+        "image":"https://th.bing.com/th/id/R0da0186f8f100aaab0baf6a925d3285a?rik=M82DeC27lu80pw&riu=http%3a%2f%2fwww.illuminationworksllc.com%2fwp-content%2fuploads%2f2017%2f04%2fProjectManagement-1.jpg&ehk=0cgNQeLO9QjShrorhELQH3LuAoaiVmRGOeA13%2fNqz5I%3d&risl=&pid=ImgRaw"
+    },
+    {
+        "ID": "5",
+        "name": "Project 5",
+        "information":"Project based on AR",
+        "tech":"C#, Unity",
+        "github_username": "",
+        "image":"https://th.bing.com/th/id/R0da0186f8f100aaab0baf6a925d3285a?rik=M82DeC27lu80pw&riu=http%3a%2f%2fwww.illuminationworksllc.com%2fwp-content%2fuploads%2f2017%2f04%2fProjectManagement-1.jpg&ehk=0cgNQeLO9QjShrorhELQH3LuAoaiVmRGOeA13%2fNqz5I%3d&risl=&pid=ImgRaw"
+    }
+]

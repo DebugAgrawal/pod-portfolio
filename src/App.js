@@ -1,5 +1,6 @@
 import FrontPage from './FrontPage'
 import AllFellows from './AllFellows'
+import AllProjects from './AllProjects'
 import './App.css';
 
 function App() {
@@ -11,6 +12,9 @@ function App() {
     </div>
     <div className="pages">
     <AllFellows/>
+    </div>
+    <div className="pages">
+    <AllProjects/>
     </div>
     </div>
     
