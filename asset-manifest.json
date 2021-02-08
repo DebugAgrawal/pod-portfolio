@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/pod-portfolio/static/css/main.9ef6178f.chunk.css",
-    "main.js": "/pod-portfolio/static/js/main.86a00b22.chunk.js",
-    "main.js.map": "/pod-portfolio/static/js/main.86a00b22.chunk.js.map",
+    "main.css": "/pod-portfolio/static/css/main.6eb6d82f.chunk.css",
+    "main.js": "/pod-portfolio/static/js/main.e8aa2557.chunk.js",
+    "main.js.map": "/pod-portfolio/static/js/main.e8aa2557.chunk.js.map",
     "runtime-main.js": "/pod-portfolio/static/js/runtime-main.b49ae883.js",
     "runtime-main.js.map": "/pod-portfolio/static/js/runtime-main.b49ae883.js.map",
     "static/js/2.d4aa48ff.chunk.js": "/pod-portfolio/static/js/2.d4aa48ff.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.ac2cae38.chunk.js": "/pod-portfolio/static/js/3.ac2cae38.chunk.js",
     "static/js/3.ac2cae38.chunk.js.map": "/pod-portfolio/static/js/3.ac2cae38.chunk.js.map",
     "index.html": "/pod-portfolio/index.html",
-    "static/css/main.9ef6178f.chunk.css.map": "/pod-portfolio/static/css/main.9ef6178f.chunk.css.map",
+    "static/css/main.6eb6d82f.chunk.css.map": "/pod-portfolio/static/css/main.6eb6d82f.chunk.css.map",
     "static/js/2.d4aa48ff.chunk.js.LICENSE.txt": "/pod-portfolio/static/js/2.d4aa48ff.chunk.js.LICENSE.txt",
     "static/media/frontpage.css": "/pod-portfolio/static/media/background1.e9ef41d4.gif",
     "static/media/fellowship.f8abc031.svg": "/pod-portfolio/static/media/fellowship.f8abc031.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.b49ae883.js",
     "static/js/2.d4aa48ff.chunk.js",
-    "static/css/main.9ef6178f.chunk.css",
-    "static/js/main.86a00b22.chunk.js"
+    "static/css/main.6eb6d82f.chunk.css",
+    "static/js/main.e8aa2557.chunk.js"
   ]
 }
