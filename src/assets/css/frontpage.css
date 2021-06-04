@@ -35,7 +35,7 @@ font-family: 'Architects Daughter', cursive;
   top: 100px;
   max-width: 25%;
 }
-.container img:hover{
+/* .container img:hover{
   animation-fill-mode: forwards;
   filter: invert(100%) blur(0);
-}
+} */
